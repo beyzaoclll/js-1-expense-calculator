@@ -1,6 +1,7 @@
+![ezgif com-video-to-gif (4)](https://github.com/beyzaoclll/js-1-expense-calculator/assets/139500362/acd17f1a-4018-4e95-88d3-5ecb8c77eb21)
 # Harcama Hesaplayıcı
 
-# Yapılacaklar
+# Yapılanlar
 
 - Ekleme Özelliği:
 - - Ekle butonuna tıklanıldığında inputların verilerine eriş
